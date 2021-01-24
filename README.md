@@ -1,3 +1,3 @@
-## Postgresqlの接続
+# V.1.0.0
 
-npx mikro-orm migration:create でmigrationの実行
+・Apollo,Expressでサーバーを立ち上げ
